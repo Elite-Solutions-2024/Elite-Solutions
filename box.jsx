@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-
+import './box.css'
 export default function Box() {
 //box1
 
